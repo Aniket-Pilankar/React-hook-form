@@ -1,8 +1,6 @@
 import { forwardRef, Ref } from "react";
 import {
   Path,
-  UseFormRegister,
-  FieldValues,
   ChangeHandler,
 } from "react-hook-form";
 import { IFormValues } from "../UncontrolledComponents/One";
